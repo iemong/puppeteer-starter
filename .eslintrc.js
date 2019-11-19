@@ -7,7 +7,7 @@ module.exports = {
     ],
     parserOptions: {
         ecmaVersion: 2019,
-        sourceType: 'moudle',
+        sourceType: 'module',
     },
     rules: {
 

@@ -1,3 +1,3 @@
-import sample from "./libs/sample"
+import screenshot from './libs/screenshot'
 
-sample()
+screenshot()

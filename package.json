@@ -7,7 +7,7 @@
     "author": "iemong",
     "license": "MIT",
     "scripts": {
-        "start": "ts-node",
+        "start": "ts-node index.ts",
         "lint": "eslint --ext .js,ts ./**"
     },
     "devDependencies": {
